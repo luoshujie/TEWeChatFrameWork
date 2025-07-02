@@ -1,0 +1,31 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2025-07-02-1078",
+    "Wrappers": [
+        {
+            "BundleGUID": "f0e367a448245209e2946a0fefbf4d66",
+            "FileName": "defaultpackage_assets_assetraw_actor_f0e367a448245209e2946a0fefbf4d66.bundle"
+        },
+        {
+            "BundleGUID": "34d270db699bcac296e0112ce8b82ed5",
+            "FileName": "defaultpackage_assets_assetraw_configs_34d270db699bcac296e0112ce8b82ed5.bundle"
+        },
+        {
+            "BundleGUID": "756afe40f45dd4f9eb3a70b6580d885a",
+            "FileName": "defaultpackage_assets_assetraw_dll_756afe40f45dd4f9eb3a70b6580d885a.bundle"
+        },
+        {
+            "BundleGUID": "8304d2a8206f2dce3f0b670416124764",
+            "FileName": "defaultpackage_assets_assetraw_uiraw_atlas_battle_8304d2a8206f2dce3f0b670416124764.bundle"
+        },
+        {
+            "BundleGUID": "18209d52acc1492512e502f6490410b5",
+            "FileName": "defaultpackage_assets_assetraw_ui_18209d52acc1492512e502f6490410b5.bundle"
+        },
+        {
+            "BundleGUID": "1652820de557297c8baac04e31ddb715",
+            "FileName": "defaultpackage_unityshaders_1652820de557297c8baac04e31ddb715.bundle"
+        }
+    ]
+}
